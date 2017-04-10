@@ -41,10 +41,10 @@ $_SERVER['tracker'] = array(
 	                                      /* if you have a busy tracker, you may adjust this */
 	                                      /* example: 10 = 10%, 20 = 5%, 50 = 2%, 100 = 1% */
 	// database options
-	'db_host'           => 'localhost',   /* ip or hostname to mysql server */
-	'db_user'           => 'root',        /* username used to connect to mysql */
-	'db_pass'           => '',            /* password used to connect to mysql */
-	'db_name'           => 'peertracker', /* name of the PeerTracker database */
+	'db_host'           => 'ap-cdbr-azure-southeast-b.cloudapp.net',   /* ip or hostname to mysql server */
+	'db_user'           => 'bb24ccbb1b415b',        /* username used to connect to mysql */
+	'db_pass'           => 'd9602417',            /* password used to connect to mysql */
+	'db_name'           => 'phpbttrackerdev', /* name of the PeerTracker database */
 
 	// advanced database options
 	'db_prefix'         => 'pt_',         /* name prefixes for the PeerTracker tables */
